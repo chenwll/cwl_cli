@@ -1,6 +1,7 @@
 [package]
 name = "cwl_cli"
 version = "0.1.0"
+authors = ["chenwenliang<1963383112@qq.com>"]
 edition = "2021"
 
 [dependencies]
